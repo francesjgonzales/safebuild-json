@@ -23,6 +23,12 @@
       "date": "05-04-22",
       "title": "Community Engagement",
       "article": "Engaging with the local community is an integral part of our project. We conducted community meetings to gather feedback and ensure our development aligns with community needs."
+    },
+    {
+      "id": 5,
+      "date": "01-14-23",
+      "title": "Testing Title",
+      "article": "This is a testing article."
     }
   ]
 }
